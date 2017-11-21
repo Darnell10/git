@@ -28,6 +28,13 @@
         android:text="Shit!!"
         android:textStyle="italic"/>
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="type some shit"/>
+
+
+
 
 
 </LinearLayout>
